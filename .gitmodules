@@ -1,0 +1,3 @@
+[submodule "geoip"]
+	path = geoip
+	url = https://github.com/du5/geoip
